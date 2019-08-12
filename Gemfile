@@ -10,7 +10,7 @@ end
 gem 'rails', '~> 5.1.3'
 # Use postgresql as the database for Active Record
 gem 'pg', '~> 0.18'
-gem 'devise', git: 'https://github.com/plataformatec/devise.git'
+gem 'devise'
 gem 'faker'
 
 # Use Puma as the app server
